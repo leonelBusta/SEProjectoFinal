@@ -17,7 +17,7 @@ root.config(menu = barraMenu, height = 200, width = 400)
 
 # Contruiremos la primer opción del menú
 bConexion = Menu(barraMenu, tearoff = 0)
-bdConexion.add_command(label="Conexion Base de Datos (B.D)")
+bConexion.add_command(label="Conexion Base de Datos (B.D)")
 bConexion.add_command(label="Salir...")
 
 
